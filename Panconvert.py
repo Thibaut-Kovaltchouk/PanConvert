@@ -59,6 +59,13 @@ if __name__ == '__main__':
         else:
             _translate.load(script_dir + "source/language/Panconvert_es.qm")
 
+    elif actualLanguage == 'Français':
+        french_language = script_dir + "/Panconvert_fr.qm"
+        if os.path.isfile(french_language):
+            _translate.load(french_language)
+        else:
+            _translate.load(script_dir + "source/language/Panconvert_fr.qm")
+
     if not os.path.isfile(str(path_pandoc)):
         get_path_pandoc()
 
