@@ -31,7 +31,7 @@
     <message>
         <location filename="source/gui/panconvert_dialog_batch.py" line="93"/>
         <source>optional File Extension Filter (separate with ;)</source>
-        <translation>Filtre optionel sur les extensions de fichiers (à séparer avec des ;)</translation>
+        <translation>Filtre sur les extensions de fichiers (séparés par ;)</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_dialog_batch.py" line="94"/>
@@ -41,17 +41,17 @@
     <message>
         <location filename="source/gui/panconvert_dialog_batch.py" line="95"/>
         <source>Recursive</source>
-        <translation>Inclure les sous-dossiers</translation>
+        <translation>Récursif</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_dialog_batch.py" line="96"/>
         <source>Directory</source>
-        <translation>Le dossier seulement</translation>
+        <translation>Dossier</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_dialog_batch.py" line="97"/>
         <source>Files</source>
-        <translation>Seulement ce(s) fichier(s)</translation>
+        <translation>Fichiers</translation>
     </message>
 </context>
 <context>
@@ -122,7 +122,7 @@
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="228"/>
         <source>Default To</source>
-        <translation>Par défaut à</translation>
+        <translation>&quot;Vers&quot; par défaut</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="239"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="238"/>
         <source>Default From</source>
-        <translation>Défaut à partir de</translation>
+        <translation>&quot;Depuis&quot; par défaut</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="254"/>
@@ -277,12 +277,12 @@
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="268"/>
         <source>Buffer Save Suffix</source>
-        <translation>Suffixe de la mémoire tampon</translation>
+        <translation>Suffixe du tampon</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="269"/>
         <source>Buffer Save Name</source>
-        <translation>Nom de la mémoire tampon</translation>
+        <translation>Nom du tampon</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_diag_prefpane.py" line="270"/>
@@ -473,7 +473,7 @@ Si c&apos;est le cas, vérifiez dans votre navigateur de fichier à l&apos;endro
     <message>
         <location filename="source/gui/panconvert_gui_old.py" line="343"/>
         <source>From Format</source>
-        <translation>Format d&apos;origine</translation>
+        <translation>Format origine</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_gui_old.py" line="350"/>
@@ -498,7 +498,7 @@ Si c&apos;est le cas, vérifiez dans votre navigateur de fichier à l&apos;endro
     <message>
         <location filename="source/gui/panconvert_gui_old.py" line="348"/>
         <source>To Format</source>
-        <translation>Format de destination</translation>
+        <translation>Format destination</translation>
     </message>
     <message>
         <location filename="source/gui/panconvert_gui_old.py" line="352"/>
