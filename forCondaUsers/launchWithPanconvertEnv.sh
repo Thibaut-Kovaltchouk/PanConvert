@@ -1,8 +1,10 @@
 #!/bin/bash
+echo conda emplacement
+echo "$CONDA_PREFIX"
 echo activation of PanConvert environment
 source $CONDA_PREFIX/etc/profile.d/conda.sh
 conda activate PanConvert
-echo $PREFIX
+echo "$CONDA_PREFIX"
 echo activation done
 echo run python script
 python ../Panconvert.py
